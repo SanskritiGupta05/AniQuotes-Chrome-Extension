@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Anime Motivation",
+  "version": "1.0",
+  "description": "Display motivational anime quotes when you open the browser.",
+  "permissions": ["storage"],
+  "action": {
+    "default_icon": {
+      "16": "thumbnail.png",
+      "48": "thumbnail.png",
+      "128": "thumbnail.png"
+    },
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "thumbnail.png",
+    "48": "thumbnail.png",
+    "128": "thumbnail.png"
+  }
+}

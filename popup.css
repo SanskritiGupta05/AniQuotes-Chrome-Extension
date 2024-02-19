@@ -1,0 +1,24 @@
+#quote-container {
+    text-align: center;
+    padding: 20px;
+    width: 400px;
+    margin: 0 auto; 
+  }
+  
+  #anime-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  #quote {
+    font-size: 18px;
+    font-style: italic;
+    margin-bottom: 5px;
+  }
+  
+  #anime-name {
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
