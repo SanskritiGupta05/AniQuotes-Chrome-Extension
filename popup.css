@@ -22,11 +22,13 @@ body {
     font-size: 18px;
     font-style: italic;
     margin-bottom: 5px;
+    color: whitesmoke;
   }
   
   #anime-name {
     font-size: 14px;
     font-weight: bold;
+    color: grey;
   }
 
 
@@ -68,6 +70,7 @@ body {
     text-align: center;
     padding: 20px;
     background-color: #ffedf0;
+    border-radius: 10px;
 }
 
 .footer a{
